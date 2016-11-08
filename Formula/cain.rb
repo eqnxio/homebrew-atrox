@@ -2,9 +2,9 @@ class Cain < Formula
   desc ''
   homepage 'https://dl.equinox.io/atrox/cain'
 
-  url 'https://bin.equinox.io/a/5MhWwiyRjJS/cain-0.1.0-darwin-amd64.tar.gz'
-  sha256 '30cad1f5975c36e61a9c158f713ed1c9ba2229256f23217f5bfb4a5ecc80f2ba'
-  version '0.1.0'
+  url 'https://bin.equinox.io/a/ma9VnW2LzmB/cain-0.1.1-darwin-amd64.tar.gz'
+  sha256 'db57cc02036d000d1a544efb16a1c600dd6281e057bb1d6e29805fa0d2093aee'
+  version '0.1.1'
 
   def install
     bin.install 'cain'
